@@ -8,7 +8,7 @@ bool WLCastle,WRCastle,BLCastle,BRCastle;    //castle variable to make descision
 void Display(vector<vector<pair<char,tag>>>grid)
 {
     for(int i=0;i<grid.size();i++)
-    {
+    {xzczcvzx zxczxc
         for(int j=0;j<grid[0].size();j++)
         {
             std::cout<<grid[i][j].first<<" ";
